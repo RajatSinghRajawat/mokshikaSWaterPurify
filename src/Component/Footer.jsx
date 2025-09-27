@@ -3,6 +3,7 @@ import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin, FaPhone, FaReact, FaWha
 import logo from "../assets/logo1.png"
 
 const Footer = () => {
+  //mnn
   const [isLight, setIsLight] = useState(false);
 
   useEffect(() => {
